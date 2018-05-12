@@ -1,0 +1,34 @@
+_repo: Dictatorship-vs.-Democracy-Terrorism-and-Communism-_38982
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trotsky, Leon
+    aliases:
+    - Trotsky, Lev Davidovitch
+    - Trotzky, Leon Davidovich
+    - Троцкий, Лев Давидович
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '2030'
+    url: http://www.gutenberg.org/2009/agents/2030
+    wikipedia: http://en.wikipedia.org/wiki/Leon_Trotsky
+description: ''
+gutenberg_issued: '2012-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38982'
+  lccn: '23011800'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kautsky, Karl, 1854-1938. Terrorismus und Kommunismus'
+- !lcsh 'Communism -- Russia'
+- !lcsh 'Revolutions'
+- !lcc 'HX'
+title: 'Dictatorship vs. Democracy (Terrorism and Communism): a reply to Karl Kantsky'
+url: http://www.gutenberg.org/ebooks/38982
