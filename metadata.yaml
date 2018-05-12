@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2030
     wikipedia: http://en.wikipedia.org/wiki/Leon_Trotsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38982#Dictatorship-vs.-Democracy-Terrorism-and-Communism-
 gutenberg_issued: '2012-02-25'
 gutenberg_type: Text
 identifiers:
